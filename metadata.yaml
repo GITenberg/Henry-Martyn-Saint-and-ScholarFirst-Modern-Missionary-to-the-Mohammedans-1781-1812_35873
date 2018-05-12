@@ -1,0 +1,29 @@
+_repo: Henry-Martyn-Saint-and-ScholarFirst-Modern-Missionary-to-the-Mohammedans-1781-1812_35873
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, George
+    birthdate: 1833
+    deathdate: 1919
+    gutenberg_agent_id: '804'
+    url: http://www.gutenberg.org/2009/agents/804
+description: ''
+gutenberg_issued: '2011-04-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35873'
+  lccn: '03033107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missionaries -- Biography'
+- !lcc 'BV'
+- !lcsh 'Martyn, Henry, 1781-1812'
+title: "Henry Martyn, Saint and Scholar\r\nFirst Modern Missionary to the Mohammedans,\
+  \ 1781-1812"
+url: http://www.gutenberg.org/ebooks/35873
